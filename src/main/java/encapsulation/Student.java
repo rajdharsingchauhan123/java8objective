@@ -1,7 +1,7 @@
 package encapsulation;
 
 public class Student {
-    protected String name;
+    private String name;
 
     public String getName() {
         return name;

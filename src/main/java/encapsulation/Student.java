@@ -1,9 +1,9 @@
 package encapsulation;
 
  public class Student {
-    private  String name ="rajdhar" ;
+    private static String name ="rajdhar" ;
 
-    public String getName() {
+    public static  String getName() {
         return name;
     }
 

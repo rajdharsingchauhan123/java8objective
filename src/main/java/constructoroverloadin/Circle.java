@@ -14,6 +14,7 @@ public class Circle {
     public Circle(int xpos, int ypos) {
         this.xpos = xpos;
         this.ypos = ypos;
+
     }
 
     public Circle() {

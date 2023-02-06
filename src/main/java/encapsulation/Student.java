@@ -3,7 +3,7 @@ package encapsulation;
  public class Student {
     private static String name ="rajdhar" ;
 
-    public static  String getName() {
+    public static   String getName() {
         return name;
     }
 

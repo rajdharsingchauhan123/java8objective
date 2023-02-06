@@ -3,11 +3,11 @@ package encapsulation;
 public class Student {
     private String name;
 
-    public String getName() {
+    protected String getName() {
         return name;
     }
 
-    public void setName(String name) {
+    protected void setName(String name) {
         this.name = name;
     }
 }
